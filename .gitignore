@@ -1,3 +1,10 @@
+# Configuration file with credentials
+config.py
+
+# Telegram session files
+*.session
+*.session-journal
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
